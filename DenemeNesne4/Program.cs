@@ -31,9 +31,9 @@ namespace DenemeNesne4
         {
             Hesap.Alan(4);
             Hesap.Alan(2, 3);
-            Hesap.Çevre(3, 4);
+            Hesap.Çevre(3);
             Hesap.Çevre(6, 3);
-
+            Console.ReadKey();
         }
     }
 }

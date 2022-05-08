@@ -81,6 +81,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenemeNesne3", "DenemeNesne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenemeNesne4", "DenemeNesne4\DenemeNesne4.csproj", "{61168709-2122-4E0D-91EE-E13818E1C1DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenemeNesne5", "DenemeNesne5\DenemeNesne5.csproj", "{0369BA1D-47F1-4814-905B-637EAA4BCC9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinomAçılım", "BinomAçılım\BinomAçılım.csproj", "{5FBEE7F9-17A2-42A7-847C-01CC3727A49F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +247,14 @@ Global
 		{61168709-2122-4E0D-91EE-E13818E1C1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61168709-2122-4E0D-91EE-E13818E1C1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61168709-2122-4E0D-91EE-E13818E1C1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0369BA1D-47F1-4814-905B-637EAA4BCC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0369BA1D-47F1-4814-905B-637EAA4BCC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0369BA1D-47F1-4814-905B-637EAA4BCC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0369BA1D-47F1-4814-905B-637EAA4BCC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FBEE7F9-17A2-42A7-847C-01CC3727A49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FBEE7F9-17A2-42A7-847C-01CC3727A49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FBEE7F9-17A2-42A7-847C-01CC3727A49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FBEE7F9-17A2-42A7-847C-01CC3727A49F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
