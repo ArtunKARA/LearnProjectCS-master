@@ -87,5 +87,10 @@ namespace WorldFinderForm
                 count--;
             }
         }
+
+        private void richTBmetin_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

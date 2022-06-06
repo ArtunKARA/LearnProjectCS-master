@@ -131,6 +131,7 @@
             this.richTBmetin.Size = new System.Drawing.Size(776, 272);
             this.richTBmetin.TabIndex = 4;
             this.richTBmetin.Text = "";
+            this.richTBmetin.TextChanged += new System.EventHandler(this.richTBmetin_TextChanged);
             // 
             // Form1
             // 
